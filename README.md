@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuavargas">Fullstack, Cybersecurity, DevOps</a>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuavargas">Programming, Cybersecurity, DevOps</a>
 
 <h2>👨‍💻 Fullstack Development Projects:</h2>
 
