@@ -3,8 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>JavaScript (MongoDB, Express.js, React.js, Node.js)</b>
+  - [MERN Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
   
 - <b>C# (ASP.Net Core MVC Web Apps, MySQL)</b>
+  - [ASP.Net Core Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
  
 - <b>Python (Flask, Jinja2, MySQL)</b>
   - [Flask Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
