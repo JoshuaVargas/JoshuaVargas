@@ -14,13 +14,13 @@
 <h2>🛡 Cybersecurity Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory Home Lab](https://github.com/JoshuaVargas/flask_app_setup)
+  - [Active Directory Home Lab](https://github.com/JoshuaVargas/)
 
 
 <h2>📲 DevOps Projects:</h2>
 
 - <b>Kubernetes</b>
-  - [MERN App Kubernetes Deployment](https://github.com/JoshuaVargas/flask_app_setup)
+  - [MERN App Kubernetes Deployment](https://github.com/JoshuaVargas/)
 
  
 <h2>📃 Certifications:</h2>
