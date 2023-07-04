@@ -13,8 +13,12 @@
  
 <h2>🛡 Cybersecurity Projects:</h2>
 
-- <b>Active Directory</b>
+- <b>Azure</b>
   - [Active Directory Home Lab](https://github.com/JoshuaVargas/)
+  - [Azure Sentinel SIEM](https://github.com/JoshuaVargas/)
+
+- <b>Powershell</b>
+  - [File Integiry Monitor](https://github.com/JoshuaVargas/)
 
 
 <h2>📲 DevOps Projects:</h2>
@@ -25,7 +29,9 @@
  
 <h2>📃 Certifications:</h2>
 
-- [AWS Certified Solutions Associate (In Progress)](https://github.com/JoshuaVargas/)
+- [AWS Certified Cloud Practitioner (In Progress)](https://github.com/JoshuaVargas/)
+
+- [Microsoft Certified: Azure Fundamentals (In Progress)](https://github.com/JoshuaVargas/)
   
 - [CompTIA Security+ (In Progress)](https://github.com/JoshuaVargas/)
  
