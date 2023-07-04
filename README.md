@@ -18,7 +18,7 @@
   - [Azure Sentinel SIEM](https://github.com/JoshuaVargas/)
 
 - <b>Powershell</b>
-  - [File Integiry Monitor](https://github.com/JoshuaVargas/)
+  - [File Integiry Monitor (FIM)](https://github.com/JoshuaVargas/)
 
 
 <h2>📲 DevOps Projects:</h2>
