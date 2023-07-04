@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>MERN (MongoDB, Express.js, React.js, Node.js)</b>
+- <b>JavaScript (MongoDB, Express.js, React.js, Node.js)</b>
   
-- <b>ASP.Net Core (MVC Web Apps w/ MySQL)</b>
+- <b>C# (ASP.Net Core MVC Web Apps, MySQL)</b>
  
-- <b>Python (Fullstack Flask w/ Jinja2, MySQL)</b>
+- <b>Python (Flask, Jinja2, MySQL)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
