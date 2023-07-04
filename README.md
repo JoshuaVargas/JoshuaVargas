@@ -1,6 +1,6 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuavargas">Fullstack Developer</a>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuavargas">Fullstack Development, Cybersecurity, DevOps</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Fullstack Development Projects:</h2>
 
 - <b>JavaScript (MongoDB, Express.js, React.js, Node.js)</b>
   - [MERN Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
@@ -10,6 +10,36 @@
  
 - <b>Python (Flask, Jinja2, MySQL)</b>
   - [Flask Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
+ 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>JavaScript (MongoDB, Express.js, React.js, Node.js)</b>
+  - [MERN Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
+  
+- <b>C# (ASP.Net Core MVC Web Apps, MySQL)</b>
+  - [ASP.Net Core Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
+ 
+- <b>Python (Flask, Jinja2, MySQL)</b>
+  - [Flask Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
+
+<h2>👨‍💻 DevOps Projects:</h2>
+
+- <b>JavaScript (MongoDB, Express.js, React.js, Node.js)</b>
+  - [MERN Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
+  
+- <b>C# (ASP.Net Core MVC Web Apps, MySQL)</b>
+  - [ASP.Net Core Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
+ 
+- <b>Python (Flask, Jinja2, MySQL)</b>
+  - [Flask Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
+ 
+<h2>📃 Certifications:</h2>
+
+- [AWS Certified Cloud Practitioner(In Progress)](https://github.com/JoshuaVargas/)
+  
+- [CompTIA Security+ (In Progress)](https://github.com/JoshuaVargas/)
+ 
+- [CompTIA Network+ (In Progress)](https://github.com/JoshuaVargas/)
 
 <h2> 🤳 Connect with me:</h2>
 
