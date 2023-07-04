@@ -26,7 +26,7 @@
 - <b>Kubernetes</b>
   - [MERN App Kubernetes Deployment](https://github.com/JoshuaVargas/)
 
- 
+ <!--
 <h2>📃 Certifications:</h2>
 
 - [AWS Certified Cloud Practitioner (In Progress)](https://github.com/JoshuaVargas/)
@@ -36,6 +36,7 @@
 - [CompTIA Security+ (In Progress)](https://github.com/JoshuaVargas/)
  
 - [CompTIA Network+ (In Progress)](https://github.com/JoshuaVargas/)
+-->
 
 <!--
 **joshuavargas/joshuavargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
