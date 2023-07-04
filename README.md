@@ -7,7 +7,7 @@
 - <b>C# (ASP.Net Core MVC Web Apps, MySQL)</b>
  
 - <b>Python (Flask, Jinja2, MySQL)</b>
-  -[Flask Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
+  - [Flask Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
 
 <h2> 🤳 Connect with me:</h2>
 
