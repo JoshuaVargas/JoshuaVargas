@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuavargas">Programming, Cybersecurity, DevOps</a>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuavargas">Programming and Cybersecurity</a>
 
 <h2>👨‍💻 Fullstack Development Projects:</h2>
 
@@ -19,24 +19,15 @@
 
 - <b>Powershell</b>
   - [File Integiry Monitor (FIM)](https://github.com/JoshuaVargas/)
+ 
+- <b>Python</b>
+  - [File Encryption/Decryption](https://github.com/JoshuaVargas/basic_python_encryption)
 
 
-<h2>📲 DevOps Projects:</h2>
-
-- <b>Kubernetes</b>
-  - [MERN App Kubernetes Deployment](https://github.com/JoshuaVargas/)
-
- <!--
 <h2>📃 Certifications:</h2>
 
-- [AWS Certified Cloud Practitioner (In Progress)](https://github.com/JoshuaVargas/)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/e0b747ca-22db-4531-906f-db462a7d8a7d)
 
-- [Microsoft Certified: Azure Fundamentals (In Progress)](https://github.com/JoshuaVargas/)
-  
-- [CompTIA Security+ (In Progress)](https://github.com/JoshuaVargas/)
- 
-- [CompTIA Network+ (In Progress)](https://github.com/JoshuaVargas/)
--->
 
 <!--
 **joshuavargas/joshuavargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
