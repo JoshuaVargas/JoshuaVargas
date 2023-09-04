@@ -6,7 +6,7 @@
   - [MERN Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
   
 - <b>C# (ASP.Net Core MVC Web Apps, MySQL)</b>
-  - [ASP.Net Core Application Setup](https://github.com/JoshuaVargas/flask_app_setup)-->
+  - [ASP.Net Core Application Setup](https://github.com/JoshuaVargas/flask_app_setup) -->
  
 - <b>Python (Flask, Jinja2, MySQL)</b>
   - [Flask Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
@@ -18,7 +18,7 @@
   - [Azure Sentinel SIEM](https://github.com/JoshuaVargas/)
 
 - <b>Powershell</b>
-  - [File Integiry Monitor (FIM)](https://github.com/JoshuaVargas/)-->
+  - [File Integiry Monitor (FIM)](https://github.com/JoshuaVargas/) -->
  
 - <b>Python</b>
   - [File Encryption/Decryption](https://github.com/JoshuaVargas/basic_python_encryption)
