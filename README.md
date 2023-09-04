@@ -26,7 +26,8 @@
 
 <h2>📃 Certifications:</h2>
 
-- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/e0b747ca-22db-4531-906f-db462a7d8a7d)
+- <b>ISC2</b>
+  - [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/e0b747ca-22db-4531-906f-db462a7d8a7d)
 
 
 <!--
