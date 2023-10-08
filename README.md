@@ -13,12 +13,8 @@
  
 <h2>🛡 Cybersecurity Projects:</h2>
 
-<!--- <b>Azure</b>
-  - [Active Directory Home Lab](https://github.com/JoshuaVargas/)
+- <b>Azure</b>
   - [Azure Sentinel SIEM](https://github.com/JoshuaVargas/)
-
-- <b>Powershell</b>
-  - [File Integiry Monitor (FIM)](https://github.com/JoshuaVargas/) -->
  
 - <b>Python</b>
   - [File Encryption/Decryption](https://github.com/JoshuaVargas/basic_python_encryption)
@@ -27,6 +23,8 @@
 
 <h2>📃 Certifications:</h2>
 
+- <b>CompTIA</b>
+  - [CompTIA A+](https://www.credly.com/badges/c68790c4-3b9b-4274-b016-869c8f6c8e2a)
 - <b>ISC2</b>
   - [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/e0b747ca-22db-4531-906f-db462a7d8a7d)
 
