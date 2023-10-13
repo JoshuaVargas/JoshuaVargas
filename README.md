@@ -14,7 +14,7 @@
 <h2>🛡 Cybersecurity Projects:</h2>
 
 - <b>Azure</b>
-  - [Azure Sentinel SIEM](https://github.com/JoshuaVargas/)
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/JoshuaVargas/azure-soc-and-honeynet)
  
 - <b>Python</b>
   - [File Encryption/Decryption](https://github.com/JoshuaVargas/basic_python_encryption)
