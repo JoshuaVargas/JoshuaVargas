@@ -15,6 +15,7 @@
 
 - <b>Azure</b>
   - [Implementing a SOC and Honeynet in Azure](https://github.com/JoshuaVargas/azure-soc-and-honeynet)
+  - [Implementing Vulnerability Management in Azure](https://github.com/JoshuaVargas/azure-vulnerability-management)
  
 - <b>Python</b>
   - [File Encryption/Decryption](https://github.com/JoshuaVargas/basic_python_encryption)
