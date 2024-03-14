@@ -1,6 +1,6 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuavargas">Programming and Cybersecurity</a>
 
-<h2>👨‍💻 Fullstack Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
 <!--- <b>JavaScript (MongoDB, Express.js, React.js, Node.js)</b>
   - [MERN Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
