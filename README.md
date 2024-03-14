@@ -1,4 +1,5 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuavargas">Programming and Cybersecurity</a>
+<h1>Hi, I'm Joshua Vargas! <br/><a href="https://github.com/joshuavargas">Programming and Cybersecurity</a>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -7,9 +8,12 @@
   
 - <b>C# (ASP.Net Core MVC Web Apps, MySQL)</b>
   - [ASP.Net Core Application Setup](https://github.com/JoshuaVargas/flask_app_setup) -->
- 
+- <b>C</b>
+  - [Asset Management CLI Tool](https://github.com/JoshuaVargas/)
+  
 - <b>Python (Flask, Jinja2, MySQL)</b>
   - [Flask Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
+
  
 <h2>🛡 Cybersecurity Projects:</h2>
 
@@ -27,6 +31,7 @@
 - <b>CompTIA</b>
   - [CompTIA Security+](https://www.credly.com/badges/347810f0-4f02-4533-885a-47453a57caed)
   - [CompTIA A+](https://www.credly.com/badges/c68790c4-3b9b-4274-b016-869c8f6c8e2a)
+  - 
 - <b>ISC2</b>
   - [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/e0b747ca-22db-4531-906f-db462a7d8a7d)
 
