@@ -9,7 +9,7 @@
 - <b>C# (ASP.Net Core MVC Web Apps, MySQL)</b>
   - [ASP.Net Core Application Setup](https://github.com/JoshuaVargas/flask_app_setup) -->
 - <b>C</b>
-  - [Asset Management CLI Tool](https://github.com/JoshuaVargas/)
+  - [CLI Text Adventure](https://github.com/JoshuaVargas/Text-Adventure)
   
 - <b>Python (Flask, Jinja2, MySQL)</b>
   - [Flask Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
