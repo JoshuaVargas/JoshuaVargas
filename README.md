@@ -23,7 +23,7 @@
  
 - <b>Python</b>
   - [File Encryption/Decryption](https://github.com/JoshuaVargas/basic_python_encryption)
-  - [C2 Server](https://github.com/JoshuaVargas/basic_python_c2_server)
+  - [Port Scanner](https://github.com/JoshuaVargas/port_scanner)
 
 
 <h2>📃 Certifications:</h2>
