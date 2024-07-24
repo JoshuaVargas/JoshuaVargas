@@ -1,7 +1,7 @@
 <h1>Hi, I'm Joshua Vargas! <br/><a href="https://github.com/joshuavargas">Programming and Cybersecurity</a>
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Programming Projects:</h2>
 
 <!--- <b>JavaScript (MongoDB, Express.js, React.js, Node.js)</b>
   - [MERN Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
@@ -11,8 +11,9 @@
 - <b>C</b>
   - [CLI Text Adventure](https://github.com/JoshuaVargas/Text-Adventure)
   
-- <b>Python (Flask, Jinja2, MySQL)</b>
-  - [Flask Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
+- <b>Python</b>
+  - [File Encryption/Decryption](https://github.com/JoshuaVargas/basic_python_encryption)
+  - [Port Scanner](https://github.com/JoshuaVargas/port_scanner)
 
  
 <h2>🛡 Cybersecurity Projects:</h2>
@@ -20,11 +21,7 @@
 - <b>Azure</b>
   - [Implementing a SOC and Honeynet in Azure](https://github.com/JoshuaVargas/azure-soc-and-honeynet)
   <!-- - [Implementing Vulnerability Management in Azure](https://github.com/JoshuaVargas/azure-vulnerability-management) -->
- 
-- <b>Python</b>
-  - [File Encryption/Decryption](https://github.com/JoshuaVargas/basic_python_encryption)
-  - [Port Scanner](https://github.com/JoshuaVargas/port_scanner)
-
+  
 
 <h2>📃 Certifications:</h2>
 
