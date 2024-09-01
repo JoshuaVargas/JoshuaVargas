@@ -2,14 +2,6 @@
 
 
 <h2>👨‍💻 Programming Projects:</h2>
-
-<!--- <b>JavaScript (MongoDB, Express.js, React.js, Node.js)</b>
-  - [MERN Application Setup](https://github.com/JoshuaVargas/flask_app_setup)
-  
-- <b>C# (ASP.Net Core MVC Web Apps, MySQL)</b>
-  - [ASP.Net Core Application Setup](https://github.com/JoshuaVargas/flask_app_setup) -->
-- <b>C</b>
-  - [CLI Text Adventure](https://github.com/JoshuaVargas/Text-Adventure)
   
 - <b>Python</b>
   - [File Conversion Tool](https://github.com/JoshuaVargas/file_conversion_tool)
