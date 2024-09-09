@@ -2,6 +2,9 @@
 
 
 <h2>👨‍💻 Programming Projects:</h2>
+
+-<b>React</b>
+  -[Admin Dashboard](https://github.com/JoshuaVargas/admin-dashboard)
   
 - <b>Python</b>
   - [File Conversion Tool](https://github.com/JoshuaVargas/file_conversion_tool)
